@@ -1,0 +1,60 @@
+#navbarHamburg{
+    justify-content: center;
+    
+}
+
+#fotoUsuario{
+    width: 120px;
+    border-radius: 50%;
+}
+
+#hireMe{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    width: 50%;
+}
+
+#workExp{
+    width: 50%;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+#education{
+    width: 50%;
+}
+#skills{
+    width: 50%;
+}
+#hobbies{
+    width: 50%;
+}
+
+
+#nav{
+background-image: linear-gradient(45deg,rgb(246, 201, 66),rgb(236, 109, 245));
+    
+    
+}
+
+.card{
+    height: 16rem;
+}
+#download, #botonPsico, #botonCole, #boxeo, #jiuJitsu{
+    border-top-left-radius: 30px 30px;
+    border-bottom-right-radius: 30px 30px;
+    border-top-right-radius: 30px 30px;
+    border-bottom-left-radius: 30px 30px;
+
+}
+
+#botonPsico, #botonCole, #boxeo, #jiuJitsu{
+    
+    height: 2rem;
+}
+
+.skil{
+    height: 4px;
+    width: 6rem;
+    background-color: blue;
+}
